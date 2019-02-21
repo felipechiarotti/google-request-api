@@ -1,0 +1,14 @@
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\bin\Debug\netcoreapp2.1\GoogleRequestWebAPI.deps.json
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\bin\Debug\netcoreapp2.1\GoogleRequestWebAPI.runtimeconfig.json
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\bin\Debug\netcoreapp2.1\GoogleRequestWebAPI.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\bin\Debug\netcoreapp2.1\GoogleRequestWebAPI.dll
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\bin\Debug\netcoreapp2.1\GoogleRequestWebAPI.pdb
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.RazorAssemblyInfo.cache
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.RazorAssemblyInfo.cs
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.AssemblyInfo.cs
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.dll
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.pdb
+C:\Users\felip\source\repos\Atak\GoogleRequestWebAPI\GoogleRequestWebAPI\obj\Debug\netcoreapp2.1\GoogleRequestWebAPI.csprojAssemblyReference.cache
